@@ -24,7 +24,7 @@ lxappearance-gtk3
 mpv
 network-manager-applet
 nitrogen
-obconf
+obconf-qt
 openbox
 pasystray
 picom
